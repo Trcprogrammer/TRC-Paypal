@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item{
+    border-bottom: 4px solid red ;
+    margin: 20px;
+    font-weight: bold;
+
+}
+
+.footer{
+  margin-top:16px ;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.link-footer{
+    text-decoration: none;
+    color: black;
+}
